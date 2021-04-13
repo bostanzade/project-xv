@@ -1,1 +1,5 @@
+<<<<<<< 
 hello Herr Tylar
+=======
+merhaba Tylar hocam
+>>>>>>> developer_c8152-osman
